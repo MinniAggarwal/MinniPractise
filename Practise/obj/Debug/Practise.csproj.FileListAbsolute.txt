@@ -5,3 +5,10 @@ D:\Minni\ASP.Net\Practise\Practise\obj\Debug\Practise.csprojAssemblyReference.ca
 D:\Minni\ASP.Net\Practise\Practise\obj\Debug\Practise.csproj.CoreCompileInputs.cache
 D:\Minni\ASP.Net\Practise\Practise\obj\Debug\Practise.exe
 D:\Minni\ASP.Net\Practise\Practise\obj\Debug\Practise.pdb
+C:\Users\minnia\Desktop\GitP\Practise\bin\Debug\Practise.exe.config
+C:\Users\minnia\Desktop\GitP\Practise\bin\Debug\Practise.exe
+C:\Users\minnia\Desktop\GitP\Practise\bin\Debug\Practise.pdb
+C:\Users\minnia\Desktop\GitP\Practise\obj\Debug\Practise.csprojAssemblyReference.cache
+C:\Users\minnia\Desktop\GitP\Practise\obj\Debug\Practise.csproj.CoreCompileInputs.cache
+C:\Users\minnia\Desktop\GitP\Practise\obj\Debug\Practise.exe
+C:\Users\minnia\Desktop\GitP\Practise\obj\Debug\Practise.pdb
