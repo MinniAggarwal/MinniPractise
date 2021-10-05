@@ -1,0 +1,7 @@
+D:\Minni\ASP.Net\Practise\Practise\bin\Debug\Practise.exe.config
+D:\Minni\ASP.Net\Practise\Practise\bin\Debug\Practise.exe
+D:\Minni\ASP.Net\Practise\Practise\bin\Debug\Practise.pdb
+D:\Minni\ASP.Net\Practise\Practise\obj\Debug\Practise.csprojAssemblyReference.cache
+D:\Minni\ASP.Net\Practise\Practise\obj\Debug\Practise.csproj.CoreCompileInputs.cache
+D:\Minni\ASP.Net\Practise\Practise\obj\Debug\Practise.exe
+D:\Minni\ASP.Net\Practise\Practise\obj\Debug\Practise.pdb
