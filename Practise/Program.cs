@@ -14,7 +14,9 @@ namespace Practise
             int a = 10;
             int b = 20;
             Sum s = new Sum();
+            Sub su = new Sub();
             Console.WriteLine(s.Add(a,b));
+            Console.WriteLine(su.Substraction(a, b));
         }
     }
 }
