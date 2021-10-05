@@ -15,8 +15,10 @@ namespace Practise
             int b = 20;
             Sum s = new Sum();
             Sub su = new Sub();
+            Mul m = new Mul();
             Console.WriteLine(s.Add(a,b));
             Console.WriteLine(su.Substraction(a, b));
+            Console.WriteLine(m.Multiply(a, b));
         }
     }
 }
