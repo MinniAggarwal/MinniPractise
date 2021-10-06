@@ -16,9 +16,11 @@ namespace Practise
             Sum s = new Sum();
             Sub su = new Sub();
             Mul m = new Mul();
+            Div d = new Div();
             Console.WriteLine(s.Add(a,b));
             Console.WriteLine(su.Substraction(a, b));
             Console.WriteLine(m.Multiply(a, b));
+            Console.WriteLine(d.Division(a, b));
         }
     }
 }
